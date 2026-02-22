@@ -9,6 +9,7 @@ The objective was to move beyond visualization and derive actionable strategic i
 PostgreSQL (Data extraction & validation queries)
 SQL (Joins, Aggregations, Window Functions)
 Power BI
+Power Query
 DAX (Time Intelligence, Moving Averages, Growth Calculations)
 Data Modeling
 KPI Framework Design
